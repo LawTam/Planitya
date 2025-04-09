@@ -1,11 +1,11 @@
-'''
+```
 trainOS/
 ├── data.py         # fetch_whoop_data, save_to_db
 ├── suggest_workout.py        # suggest_workout
 ├── dashboard.py    # run_dashboard
 ├── trainOS.db     # SQLite database
 └── main.py         # Entry point to tie it together
-'''
+```
 
 # Dev Log
 ### April 8, 2025
