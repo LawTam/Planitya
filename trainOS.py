@@ -1,4 +1,4 @@
-# planitya.py
+# trainOS.py
 import requests
 import sqlite3
 import streamlit as st
